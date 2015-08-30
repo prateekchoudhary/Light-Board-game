@@ -1,0 +1,64 @@
+/***************************** ******************************************/
+/*************** bitrhymes assignments css.css  *************************/
+/************ @author : prateek.choudhary *******************************/
+/************************************************************************/
+/************************************************************************/
+
+
+body{
+	width:100%;
+	margin:0 auto;
+}
+.parent{
+	width:760px;
+	margin:0 auto;
+	border:1px solid #CCCCCC;
+	min-height:550px;
+}
+.canvas_board{
+	margin:100px 0 0 0;
+	width:760px;
+}
+.user{
+	width:140px;
+	float:left;
+	padding:10px;
+}
+.board{
+	width:440px;
+	float:left;
+}
+h6{
+	font-weight:bold;
+	color:#666666;
+	font-size:14px;
+	font-family:arial;
+}
+.tr_id {
+
+}
+.td_id {
+width : 25px;
+height : 25px;
+background-color : #FFFFFF;
+border:1px solid #E4E4E4;
+cursor:pointer;
+}
+#reloadNotify{
+	padding:15px 0px 15px 0px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	font-size:17px;
+	text-align:center;
+	background:#E4E4E4;
+	height:35px;
+	display:none;
+}
+.logout{
+	margin:10px 10px 0 0;
+	text-align:right;
+	font-size:12px;
+	font-family:arial;
+}

@@ -1,0 +1,13 @@
+***************************************** 
+****   LIGHT BOARD APPLICATION **********
+*****************************************
+1. A more smoother transition of color selection.
+2. Support for IE.
+
+
+******************************************
+**************** Known Bugs **************
+******************************************
+1. If A user deselects all his lit cells, then to aquire lock again Page has to be refreshed [ :-( ]
+
+******************************************
